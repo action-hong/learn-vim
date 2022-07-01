@@ -19,8 +19,8 @@
 ## 上下左右移动
 
 - 需要再normal模式下
-- j：up
-- k: down
+- j：down
+- k: up
 - h: left
 - l: right
 

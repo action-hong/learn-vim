@@ -42,6 +42,9 @@ match beginning & ending of word, camelCase, after _, and after #
 
 j和k 便是上下移动的按键，很方便记忆
 
+---
+
+在使用时，hjkl等按键都无效了（即无法滚动屏幕），但也毛病，本身该插件就是为了让你跳转到你现在能看到的屏幕的某一处，需要滚动了再跳转，那应该是先执行滚动再使用或者使用用`/?`搜索
 
 
 ## vim-sneak

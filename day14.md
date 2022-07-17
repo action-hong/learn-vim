@@ -59,19 +59,22 @@ import { ref, /* watch */ } from 'vue'
 
 有类似的函数函数参数的`daa`命令来删除`ref,`吗
 
+> 群里的老哥说了，也可以用`daa`，但是不大行，难道是window的问题？
+
 ### 如何快速删除一个函数：
 
 ```js
 function foo() {
-  console.log('hehllo')
-  console.log('hehllo')
-  console.log('hehllo')
-  console.log('hehllo')
-  console.log('hehllo')
-  console.log('hehllo')
-  console.log('hehllo')
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
 }
 ```
 
-目前的做法的光标移到定义内，`daB`删除{}所有内容，然后再dd删除`function foo()`删除定义，有什么更好的快捷键直接删除吗
+目前的做法的光标移到定义内，`daB`删除{}所有内容，然后再`dd`删除`function foo()`删除定义，有什么更好的快捷键直接删除吗
 
+> 光标到函数名那行，键入`V$%d`即可

@@ -35,6 +35,8 @@ vscode 的快捷键
 - ctrl + w: 关闭窗口
 - ctrl + k + w: 关闭当前窗口所有文件(ctrl + k再之前被用来做方向键了，就不用了)
 
+> 由于ctrl+k改建成方向键上，因此可以将改指令的快捷键改成`arrowUp` + `w`，这样同样可以键入`ctrl`+`k`+`w`来关闭
+
 ## 窗口切换
 
 配置keybindings.json

@@ -10,6 +10,7 @@
   - 搜索结果列表和搜索栏之间可以通过`ctrl` + `up`/`down` 来切换 
 
 > 需要注意如果使用了搜狗输入法，大概率该快捷键无法生效，可以在搜狗输入法中的属性设置->高级->系统功能快捷键->关闭简繁切换即可
+> 同理微软自帶的輸入法的繁重切换快固定拿掉，关掉即可(https://jingyan.baidu.com/article/948f5924ddb3aed80ef5f97d.html)
 
 - `ctrl` + `shift` + `j`: toggle search query
 

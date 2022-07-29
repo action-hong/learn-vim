@@ -52,5 +52,7 @@
 }
 ```
 
+## 拓展
 
+- [edamagit](https://marketplace.visualstudio.com/items?itemName=kahole.magit) 
 

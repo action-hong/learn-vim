@@ -61,6 +61,13 @@ import { ref, /* watch */ } from 'vue'
 
 > 群里的老哥说了，也可以用`daa`，但是不大行，难道是window的问题？
 
+需要配置下即可：
+
+```json
+"vim.argumentObjectOpeningDelimiters": ["(", "[", "{"],
+"vim.argumentObjectClosingDelimiters": [")", "]", "}"],
+```
+
 ### 如何快速删除一个函数：
 
 ```js

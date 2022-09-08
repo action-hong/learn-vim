@@ -9,7 +9,7 @@
 (change sround)
 
 ```js
-const name = 'kkopite'
+const name = `kkopite`
 const msg = "hello ${name}"
 ```
 
